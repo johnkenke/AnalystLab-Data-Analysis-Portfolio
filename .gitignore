@@ -219,3 +219,6 @@ __marimo__/
 # Local raw data cache
 netflix_titles.csv
 OnlineRetail.csv
+# Local cleaned data cache
+cleaned_Netflix_data.csv
+cleaned_retail_transactions.csv
